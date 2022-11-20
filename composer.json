@@ -1,0 +1,19 @@
+{
+  "name": "MauriceLBruijn/sbo-sitemap",
+  "description": "",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/MauriceLBruijn/sbo-sitemap",
+  "authors": [
+    {
+      "name": "Maurice Bruijn",
+      "homepage": "https://simplybruijnonline.nl"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">7.0"
+  }
+}
